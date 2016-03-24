@@ -1,0 +1,72 @@
+#PAGE_HEADER{
+	height:103px;
+}
+#PAGE_HEADER_WRAPPER{
+	height:auto;
+}
+#PAGE_CONTENTS{
+	padding-top:59px;
+}
+#PAGE_CONTENTS_WRAPPER>.section{
+	margin-top:0;
+}
+#GN_USERID{
+	position:absolute;
+	top:30px;
+	right:80px;
+
+}
+#GN_LOGOUT a{
+	position:absolute;
+	top:30px;
+	right:0;
+	width:auto;
+	height:auto;
+	text-indent:0;
+	outline-style:none;
+	display:inline-block;
+	padding-left:10px;
+	background:url(/general/image/cmn_mark_link1.gif) no-repeat 0 0.4em;
+}
+#PAGE_FOOTER{
+	min-height:65px;
+}
+#PAGE_FOOTER_WRAPPER{
+	min-height:65px;
+	background-position:50% -80px;
+	position:relative;
+}
+#COPYRIGHT{
+	top:40px;
+}
+
+.topicPath{
+	position:absolute;
+	top:8px;
+	width:780px;
+	color:#999;
+}
+.topicPath ol{
+	list-style:none;
+	margin:0;
+	padding:0;
+	font-size:77%;
+}
+.topicPath li{
+	display:inline;
+	margin:0;
+	padding:0;
+}
+.topicPath li.here{
+}
+.topicPath .in{
+	margin:0 0.5em;
+}
+em{
+	color:#f00;
+	font-style:normal;
+}
+div.submit{
+	text-align:center;
+	margin:1em 0;
+}
